@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A picture magnifier component for Vue.js 2.x",
   "author": "sueyan <651579791@qq.com>",
-  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

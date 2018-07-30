@@ -1,4 +1,4 @@
-# vue-piczoom
+# vue-pic-zoom
 
 > A picture magnifier component for Vue.js 2.x
 基于vue2.x的电商图片放大镜插件
