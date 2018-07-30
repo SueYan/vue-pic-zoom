@@ -1,4 +1,4 @@
-# vue-pic-zoom
+# vuejs-picture-zoom
 
 > A picture magnifier component for Vue.js 2.x
 基于vue2.x的电商图片放大镜插件
@@ -7,12 +7,12 @@
 
 ``` bash
 # 安装 install
-npm install vue-pic-zoom --save
+npm install vuejs-picture-zoom --save
 ```
 ``` bash
 # 使用 use
 --script
-import PicZoom from 'vue-pic-zoom'
+import PicZoom from 'vuejs-picture-zoom'
 export default {
   name: 'App',
   components: {
